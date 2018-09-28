@@ -63,12 +63,12 @@ void SCCP4_COMPARE_Initialize (void)
     CCP4STAT = 0x0;
     //TMRL 0; TMRH 0; 
     CCP4TMR = 0x0;
-    //PRH 0; PRL 3720; 
-    CCP4PR = 0xE88;
+    //PRH 0; PRL 3750; 
+    CCP4PR = 0xEA6;
     //CMPA 0; 
     CCP4RA = 0x0;
-    //CMPB 1860; 
-    CCP4RB = 0x744;
+    //CMPB 1875; 
+    CCP4RB = 0x753;
     //BUFL 0; BUFH 0; 
     CCP4BUF = 0x0;
 

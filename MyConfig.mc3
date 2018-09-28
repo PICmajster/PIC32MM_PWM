@@ -495,7 +495,7 @@
       </entry>
       <entry>
          <key class="com.microchip.mcc.core.tokenManager.CustomKey" moduleName="SCCP4" name="prlkey"/>
-         <value>3720</value>
+         <value>3750</value>
       </entry>
       <entry>
          <key class="com.microchip.mcc.core.tokenManager.OptionKey" moduleName="SCCP4" registerAlias="CCPCON2" settingAlias="ICGSM" alias="One Shot, Rising"/>
@@ -3151,7 +3151,7 @@
       </entry>
       <entry>
          <key class="com.microchip.mcc.core.tokenManager.SettingKey" moduleName="SCCP4" registerAlias="CCPRB" settingAlias="CMPB"/>
-         <value>1860</value>
+         <value>1875</value>
       </entry>
       <entry>
          <key class="com.microchip.mcc.core.tokenManager.OptionKey" moduleName="Pin Module" registerAlias="ODCB" settingAlias="ODCB15" alias="disabled"/>
@@ -4431,7 +4431,7 @@
       </entry>
       <entry>
          <key class="com.microchip.mcc.core.tokenManager.SettingKey" moduleName="SCCP4" registerAlias="CCPPR" settingAlias="PRL"/>
-         <value>3720</value>
+         <value>3750</value>
       </entry>
       <entry>
          <key class="com.microchip.mcc.core.tokenManager.RegisterKey" moduleName="Pin Module" registerAlias="ANSELC"/>
@@ -6591,7 +6591,7 @@
       </entry>
       <entry>
          <key class="com.microchip.mcc.core.tokenManager.CustomKey" moduleName="SCCP4" name="cmpbkey"/>
-         <value>1860</value>
+         <value>1875</value>
       </entry>
       <entry>
          <key class="com.microchip.mcc.core.tokenManager.OptionKey" moduleName="System Module" registerAlias="FWDT" settingAlias="WDTPS" alias="PS512"/>
@@ -6759,7 +6759,7 @@
       </entry>
       <entry>
          <key class="com.microchip.mcc.core.tokenManager.RegisterKey" moduleName="SCCP4" registerAlias="CCPPR"/>
-         <value>3720</value>
+         <value>3750</value>
       </entry>
       <entry>
          <key class="com.microchip.mcc.core.tokenManager.CustomKey" moduleName="Pin Module" name="RA15"/>
@@ -8371,7 +8371,7 @@
       </entry>
       <entry>
          <key class="com.microchip.mcc.core.tokenManager.RegisterKey" moduleName="SCCP4" registerAlias="CCPRB"/>
-         <value>1860</value>
+         <value>1875</value>
       </entry>
       <entry>
          <key class="com.microchip.mcc.core.tokenManager.OptionKey" moduleName="Pin Module" registerAlias="CNCOND" settingAlias="CNSTYLE" alias="disabled"/>
